@@ -6,3 +6,6 @@ p str.split(/,\s+/)
 
 # 要素が２つの配列になるとそれ以上は分割しない
 p str.split(/,\s+/,2)
+
+p 'Alice'.split(//)
+p 'Alice'.each_char.to_a
