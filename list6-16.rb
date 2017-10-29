@@ -1,4 +1,4 @@
-module HelloModule
+module
   def hello
     :hello_module
   end
